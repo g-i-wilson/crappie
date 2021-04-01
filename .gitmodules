@@ -1,0 +1,3 @@
+[submodule "bluegill"]
+	path = bluegill
+	url = git@github.com:g-i-wilson/bluegill.git
